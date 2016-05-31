@@ -16,14 +16,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 <!--<![endif]-->
 <%- partial('casper/head') %>
-<!--<% if (typeof page.title == 'undefined') { %>
-<body class="home-template">
+<% if (typeof page.title == 'undefined') { %>
+      <%- partial('casper/header-home') %>
 <% } else { %>
-<body class="post-template">
-<% } %>-->
+      <%- partial('casper/header') %>
+<% } %>
 <body id="index" class="lightnav animsition">
 
-      <%- partial('casper/header') %>
       <%- body %>
       <%- partial('casper/footer') %>
       <%- partial('casper/after_all') %>

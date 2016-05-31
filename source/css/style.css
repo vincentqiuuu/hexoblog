@@ -557,7 +557,7 @@ nav i.icon-basic-eye {
 	margin-right: 5px;
 }
 .navbar-inner {
-	background-color: transparent;
+	background-color: rgb(255,255,255); 
 	-webkit-transition: background-color 400ms linear;
 	-moz-transition: background-color 400ms linear;
 	-o-transition: background-color 400ms linear;

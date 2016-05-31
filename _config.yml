@@ -1,8 +1,8 @@
 # config
-cover: /img/bg_img.jpg
+cover: img/big_img.jpg
 logo: /img/logo.png
 top_saying:
-- title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
+- title: Welcome to my garden!
 - content: 每一个不曾起舞的日子都是对生命的辜负。
 bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
 # Content
@@ -23,11 +23,8 @@ works:
 duoshuo: duoshuo_name
 
 # Miscellaneous
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google: https://google.com/
-weibo: http://weibo.com/
+github: https://github.com/vincentqiuuu
+facebook: https://www.facebook.com/vincentqiuuu
 
 #about  timeline
 timeline:
