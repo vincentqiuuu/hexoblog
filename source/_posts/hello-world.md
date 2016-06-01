@@ -1,38 +1,18 @@
 ---
 title: Hello World
+
+date: 2016-05-29 20:10:33
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+## 欢迎来到我的Blog！
 
-## Quick Start
+我是名马上要毕业的小码农，本科是09级上海交通大学软件学院，13年毕业后不远万里来到巴黎高等矿业学院攻读信息系统管理工程师学位，目前在巴黎的一家移动应用开发公司做最终的毕业实习，等今年9月底毕业后我就要回国找工作了！
 
-### Create a new post
+由于工作内容主要是安卓应用的开发，所以最熟悉也最喜欢的语言是Java，对Java虚拟机相关的技术也很有兴趣~ 以前在大学读书和实习的时候主要用C++，但实在觉得它太庞大太复杂了！
 
-``` bash
-$ hexo new "My New Post"
-```
+以前的我超级瘦，BMI在17左右，来了法国后开始健身，因为宿舍楼里就有个简陋的健身房，还挺方便。现在还处于初级水平~
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+平时我会弹弹吉他，也用GarageBand写过几首歌，可惜我唱歌实在太烂，不过最重要的是创作音乐的这个过程非常好玩！
 
-### Run server
+我并没有一个对这个Blog的清晰的定位，我想我主要会发一些技术相关的文章，在记录自己心得的同时能够分享也是很好的。另外我也会发一些乱七八糟的与我的兴趣相关的原创的东西吧。不过目前对于刚起步写Blog的我来讲，最重要的是能够有精力保持更新！
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+首页的图片是巴黎的一处私人花园，隐秘在喧闹的街道旁边，绿意盎然，令人心旷神怡。如果你看过[《爱在日落黄昏时(before sunset)》](https://movie.douban.com/subject/1291990/)的话，这里也是电影中女主角Céline在巴黎的住处。
