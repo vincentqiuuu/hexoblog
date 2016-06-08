@@ -6,14 +6,14 @@
 title: Wenxiang's Blog 
 subtitle:
 description:
-author: Weniang Qiu
+author: Wenxiang Qiu
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.qiuwenxiang.com
-root: /blog_test
+#root: /blog_test
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -47,6 +47,10 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
+    安卓: android
+    Java: java
+    音乐: music
+    ot: other
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -63,7 +67,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: TKL 
+theme: hexo-theme-yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
